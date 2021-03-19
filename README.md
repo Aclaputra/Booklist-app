@@ -1,2 +1,2 @@
 # Booklist-app
-Vanilla JavaScript crud local storage
+Vanilla JavaScript crud with local storage
